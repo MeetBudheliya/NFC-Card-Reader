@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A7C50AC-C0F6-4EC6-9AD2-F364C3C06651"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A2D39F9-3583-42EA-96F6-A0CF3E786502"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NFC Card Reader/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "startNFCReaderSession()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A2D39F9-3583-42EA-96F6-A0CF3E786502 - a27377162a59f318"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NFC_Card_Reader.ViewController.startNFCReaderSession() -&gt; ()"
+                  moduleName = "NFC Card Reader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meetbudheliya/Documents/Documents/iOS_Projects/Other/NFC%20Card%20Reader/NFC%20Card%20Reader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8A2D39F9-3583-42EA-96F6-A0CF3E786502 - a27377162a59f3d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NFC_Card_Reader.ViewController.startNFCReaderSession() -&gt; ()"
+                  moduleName = "NFC Card Reader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meetbudheliya/Documents/Documents/iOS_Projects/Other/NFC%20Card%20Reader/NFC%20Card%20Reader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "8A2D39F9-3583-42EA-96F6-A0CF3E786502 - a27377162a59f3d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NFC_Card_Reader.ViewController.startNFCReaderSession() -&gt; ()"
+                  moduleName = "NFC Card Reader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/meetbudheliya/Documents/Documents/iOS_Projects/Other/NFC%20Card%20Reader/NFC%20Card%20Reader/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19270E45-9578-406D-8CAB-696C86F437FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NFC Card Reader/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tagReaderSession(_:didDetect:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

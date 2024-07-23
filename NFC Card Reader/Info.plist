@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+    <key>NFCReaderUsageDescription</key>
+    <string>Explanation of why your app uses NFC</string>
 </dict>
 </plist>
